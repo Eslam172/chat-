@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "685100380870",
+    "project_id": "chat-pract",
+    "storage_bucket": "chat-pract.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685100380870:android:036f7dce5459ae9f5dddc7",
+        "android_client_info": {
+          "package_name": "com.example.chat_pract"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685100380870-4pi2rp1ctmtinb4d2rdnephs73iculh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALxne-lPYPd_6yJJpsZ8f21FfR64Ueq2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685100380870-4pi2rp1ctmtinb4d2rdnephs73iculh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
